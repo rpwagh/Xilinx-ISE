@@ -1,0 +1,1 @@
+xst -intstyle ise -filter "C:/Users/Admin/Desktop/BESEM7/Practicals/VLSID/Xilinx/Verilog/iseconfig/filter.filter" -ifn "C:/Users/Admin/Desktop/BESEM7/Practicals/VLSID/Xilinx/Verilog/decoder_2_4.xst" -ofn "C:/Users/Admin/Desktop/BESEM7/Practicals/VLSID/Xilinx/Verilog/decoder_2_4.syr" 
